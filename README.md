@@ -12,5 +12,5 @@
 - [x] 4-1 Grouping
 - [x] 4-2 Aggregate function
 - [x] 4-3 Aggregate result filtering
-- [ ] 4-4 Flexible grouping
+- [x] 4-4 Flexible grouping
 - [ ] 4-5 Confirmation drill
