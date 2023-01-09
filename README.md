@@ -10,7 +10,7 @@
 ## CHAPTER 4 
 ### Grouping and Data Aggregate
 - [x] 4-1 Grouping
-- [ ] 4-2 Aggregate function
+- [x] 4-2 Aggregate function
 - [ ] 4-3 Aggregate result filtering
 - [ ] 4-4 Flexible grouping
 - [ ] 4-5 Confirmation drill
