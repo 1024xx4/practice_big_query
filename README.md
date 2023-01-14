@@ -18,7 +18,7 @@
 ## CHAPTER 5
 ### Table of Join and Set Operation
 - [x] Cause multiple table existing.
-- [ ] Table join.
+- [x] Table join.
 - [ ] Multiple condition 3 table or more join.
 - [ ] Same table join null substitution.
 - [ ] Table set operation.
