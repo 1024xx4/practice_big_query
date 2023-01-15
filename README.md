@@ -14,3 +14,13 @@
 - [x] 4-3 Aggregate result filtering
 - [x] 4-4 Flexible grouping
 - [x] 4-5 Confirmation drill
+
+## CHAPTER 5
+### Table of Join and Set Operation
+- [x] Cause multiple table existing.
+- [x] Table join.
+- [x] Multiple condition 3 table or more join.
+- [ ] Same table join null substitution.
+- [ ] Table set operation.
+- [ ] Virtual table creation.
+- [ ] Confirmation table.
