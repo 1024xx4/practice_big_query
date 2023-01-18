@@ -20,7 +20,7 @@
 - [x] Cause multiple table existing.
 - [x] Table join.
 - [x] Multiple condition 3 table or more join.
-- [ ] Same table join null substitution.
+- [x] Same table join null substitution.
 - [ ] Table set operation.
 - [ ] Virtual table creation.
 - [ ] Confirmation table.
