@@ -21,6 +21,6 @@
 - [x] Table join.
 - [x] Multiple condition 3 table or more join.
 - [x] Same table join null substitution.
-- [ ] Table set operation.
+- [x] Table set operation.
 - [ ] Virtual table creation.
 - [ ] Confirmation table.
