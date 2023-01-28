@@ -23,4 +23,11 @@
 - [x] Same table join null substitution.
 - [x] Table set operation.
 - [x] Virtual table creation.
-- [ ] Confirmation table.
+- [x] Confirmation table.
+
+## CHAPTER 6
+### SubQuery
+- [ ] Subquery の記述と戻り値の利用
+- [ ] subquery の実践的な活用例
+- [ ] UNNEST関数による GA4 Table の変換
+- [ ] 確認Drill
