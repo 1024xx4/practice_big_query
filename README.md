@@ -20,7 +20,14 @@
 - [x] Cause multiple table existing.
 - [x] Table join.
 - [x] Multiple condition 3 table or more join.
-- [ ] Same table join null substitution.
-- [ ] Table set operation.
-- [ ] Virtual table creation.
-- [ ] Confirmation table.
+- [x] Same table join null substitution.
+- [x] Table set operation.
+- [x] Virtual table creation.
+- [x] Confirmation table.
+
+## CHAPTER 6
+### SubQuery
+- [ ] Subquery の記述と戻り値の利用
+- [ ] subquery の実践的な活用例
+- [ ] UNNEST関数による GA4 Table の変換
+- [ ] 確認Drill
