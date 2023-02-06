@@ -28,6 +28,6 @@
 ## CHAPTER 6
 ### SubQuery
 - [x] Subquery の記述と戻り値の利用
-- [ ] subquery の実践的な活用例
+- [x] subquery の実践的な活用例
 - [ ] UNNEST関数による GA4 Table の変換
 - [ ] 確認Drill
